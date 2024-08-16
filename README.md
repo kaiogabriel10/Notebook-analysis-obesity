@@ -20,7 +20,7 @@ Antes de executar o notebook, verifique se você possui o dataset `GDP.csv` disp
 
 1. Certifique-se de ter o dataset `GDP.csv` em seu diretório de trabalho.
 2. Clone o repositório ou faça o download dos arquivos do projeto.
-3. Abra o notebook `notebook_analysis.ipynb` no Jupyter Notebook.
+3. Abra o notebook `notebook_obesity.ipynb` no Jupyter Notebook.
 4. Execute as células do notebook para realizar a análise.
 
 ## Dependências
